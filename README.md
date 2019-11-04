@@ -1,13 +1,29 @@
-# GA_Python_FinalProject
-Final Project for GA Python Class.  Analysis of NHL Stats using Pandas.  (Done in google Colab.)
+# NHL Player Stats Project
+Final Project for GA Python Class.  Analysis of NHL Stats using Pandas.  
+<a href="https://colab.research.google.com/github/deez79/GA_Python_FinalProject/blob/master/nhl_player_stats_project.ipynb">
+ Project in Google Colaboratory
+</a>
 
+The data is availble from Kaggle here:
+<a href="https://www.kaggle.com/ace184/nhl-skater-stats">
+ nhl_skater-stats dataset
+</a>
+
+## Here is what I will attempt to accomplish in this project:
 * Import data from Kaggle dataset
 * Get general info from dataset
 * Sanitize data
 * Answer the following questions:
-  * Which Goalie scored the most goals?
-  * What age do players score the most goals?
-  * Which Ranger has the highest Pts?
+    * How many Teams are there?
+    * How many Players have played in the NHL?
+    * Answer the following questions:
+    * What was the highest number of goals scored per season by a player?
+    * Which Goalie scored the most goals?
+    * Player with most career Goals?
+    * Which Ranger has the highest Pts?
 * Graph the following:
-  * Teams with the most points
-  * Goals per year for most goals scored player
+    * What age do players score the most goals?
+    * Year most goals were scored
+    * Teams with the players that scored the most points
+    * Goals per year for the player of your choice
+    * Map Multiple Players Career Goals 
