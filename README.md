@@ -1,5 +1,8 @@
 # NHL Player Stats Project
 Final Project for GA Python Class.  Analysis of NHL Stats using Pandas.  
+<a href="https://github.com/deez79/PHP-and-MySQL-Class-Homework/blob/master/nhl_player_stats_project.ipynb">
+ Here are the results, readable on Github
+</a>
 <a href="https://colab.research.google.com/github/deez79/GA_Python_FinalProject/blob/master/nhl_player_stats_project.ipynb">
  Project in Google Colaboratory
 </a>
