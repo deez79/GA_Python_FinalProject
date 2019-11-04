@@ -29,5 +29,6 @@ The data is availble from Kaggle here:
     * What age do players score the most goals?
     * Year most goals were scored
     * Teams with the players that scored the most points
-    * Goals per year for the player of your choice
     * Map Multiple Players Career Goals 
+    * Goals per year for the player of your choice
+
